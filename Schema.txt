@@ -1,4 +1,8 @@
 
 
 1. Point Cloud data collection
-   1.1 MS Azure Kinect SDK -> point cloud (1000 ms = 1 s)
+   1.1 MS Azure Kinect SDK -> point cloud (1000 ms = 1 s; 1s= 10^ 6 =1 us )
+   1.2 target object obtain manually 
+
+
+2. 
