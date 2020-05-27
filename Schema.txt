@@ -12,4 +12,4 @@
    2.2 project point cloud to 2D image back and play 30 image every second
 
 
-3. play cloud point s
+3. play cloud point sequence or play 2D image
