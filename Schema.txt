@@ -3,6 +3,13 @@
 1. Point Cloud data collection
    1.1 MS Azure Kinect SDK -> point cloud (1000 ms = 1 s; 1s= 10^ 6 =1 us )
    1.2 target object obtain manually 
+   1.3 abtain point every 30 second since 30 frame every second
+   1.4 remove the background point
 
 
-2. 
+2. color value comparison absoulte 
+   2.1 
+   2.2 project point cloud to 2D image back and play 30 image every second
+
+
+3. play cloud point s
