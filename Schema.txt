@@ -1,0 +1,4 @@
+
+
+1. Point Cloud data collection
+   1.1 MS Azure Kinect SDK -> point cloud (1000 ms = 1 s)
